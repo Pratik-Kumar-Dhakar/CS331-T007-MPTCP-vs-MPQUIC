@@ -1,8 +1,10 @@
 # CS331-T007-MPQUICvsMPTCP
 
 **Team ID:** T007
+
 **Project ID:** CS331-T007-MPQUICvsMPTCP
-**Project Title:** MPTCP vs MP-QUIC — A Comparative Study of Multipath Transport Protocols
+
+**Project Title:** MPTCP vs MP-QUIC, A Comparative Study of Multipath Transport Protocols
 
 ## Team Members
 
